@@ -1,4 +1,4 @@
-# who-opened-the-cmd-
+
 # CMD Trap – Beta V2  
 Un potente strumento di diagnostica per Windows progettato per identificare l'origine di aperture improvvise di `cmd.exe` causate da servizi o applicazioni in background.  
 CMD Trap monitora in tempo reale ogni processo cmd.exe e registra comando, processo genitore, ora e dettagli utili per tracciare comportamenti indesiderati.
